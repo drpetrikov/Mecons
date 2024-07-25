@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="128px"
+   viewBox="0 0 128 128"
+   width="128px"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="phone.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:bx="https://boxy-svg.com">
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.6015625"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-width="1536"
+     inkscape:window-height="795"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32" />
+  <defs
+     id="defs13">
+    <linearGradient
+       id="gradient-1"
+       bx:pinned="true">
+      <stop
+         offset="0"
+         style="stop-color: rgb(154, 153, 150);"
+         id="stop1" />
+      <stop
+         offset="0.041"
+         style="stop-color: rgb(192, 191, 188);"
+         id="stop2" />
+      <stop
+         offset="0.1002"
+         style="stop-color: rgb(154, 153, 150);"
+         id="stop3" />
+      <stop
+         offset="0.9"
+         style="stop-color: rgb(154, 153, 150);"
+         id="stop4" />
+      <stop
+         offset="0.95"
+         style="stop-color: rgb(192, 191, 188);"
+         id="stop5" />
+      <stop
+         offset="1"
+         style="stop-color: rgb(154, 153, 150);"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="gradient-0"
+       bx:pinned="true">
+      <stop
+         offset="0"
+         style="stop-color: rgb(36, 36, 36);"
+         id="stop7" />
+      <stop
+         offset="0.046"
+         style="stop-color: rgb(79, 79, 79);"
+         id="stop8" />
+      <stop
+         offset="0.091"
+         style="stop-color: rgb(64, 64, 64);"
+         id="stop9" />
+      <stop
+         offset="0.909"
+         style="stop-color: rgb(67, 67, 67);"
+         id="stop10" />
+      <stop
+         offset="0.953"
+         style="stop-color: rgb(76, 76, 75);"
+         id="stop11" />
+      <stop
+         offset="1"
+         style="stop-color: rgb(50, 50, 50);"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="gradient-0-0"
+       gradientUnits="userSpaceOnUse"
+       x1="61.151"
+       y1="13.121"
+       x2="61.151"
+       y2="124.318"
+       gradientTransform="matrix(-0.005466, 1.033136, -0.745983, -0.003946, 115.934223, 61.4177)"
+       xlink:href="#gradient-0" />
+    <linearGradient
+       id="color-0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color: rgb(15, 67, 149);"
+         id="stop13" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill: url('#gradient-0-0');"
+     x="23.32"
+     y="10.326"
+     width="81.111"
+     height="114.882"
+     rx="10"
+     ry="10"
+     id="rect13" />
+  <rect
+     style="fill: rgb(45, 45, 45);"
+     x="23.32"
+     y="3.093"
+     width="81.111"
+     height="114.882"
+     rx="10"
+     ry="10"
+     id="rect14" />
+  <path
+     d="M 35.432 11.454 L 91.674 11.454 C 94.064 11.454 95.998 13.389 95.998 15.778 L 95.998 22.263 C 95.998 24.652 94.064 26.586 91.674 26.586 L 35.432 26.586 C 33.042 26.586 31.109 24.652 31.109 22.263 L 31.109 15.778 C 31.109 13.389 33.042 11.454 35.432 11.454 Z M 35.432 11.454"
+     style="fill: rgb(71, 81, 102);"
+     id="path14" />
+  <path
+     d="M 35.432 109.545 L 91.674 109.545 C 94.064 109.545 95.998 107.514 95.998 105.01 L 95.998 19.186 C 95.998 16.678 94.064 14.65 91.674 14.65 L 35.432 14.65 C 33.042 14.65 31.109 16.678 31.109 19.186 L 31.109 105.01 C 31.109 107.514 33.042 109.545 35.432 109.545 Z M 35.432 109.545"
+     style="fill: rgb(193, 209, 239);"
+     id="path15" />
+  <filter
+     id="c"
+     height="1"
+     width="1"
+     x="0"
+     y="0">
+    <feColorMatrix
+       in="SourceGraphic"
+       type="matrix"
+       values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+       id="feColorMatrix15" />
+  </filter>
+  <mask
+     id="d">
+    <g
+       filter="url(#c)"
+       id="g15">
+      <rect
+         fill-opacity="0.5"
+         height="128"
+         width="128"
+         id="rect15" />
+    </g>
+  </mask>
+  <clipPath
+     id="e">
+    <rect
+       height="152"
+       width="192"
+       id="rect16" />
+  </clipPath>
+  <mask
+     id="r">
+    <g
+       filter="url(#c)"
+       id="g17">
+      <rect
+         fill-opacity="0.5"
+         height="128"
+         width="128"
+         id="rect17" />
+    </g>
+  </mask>
+  <clipPath
+     id="s">
+    <rect
+       height="152"
+       width="192"
+       id="rect18" />
+  </clipPath>
+  <g
+     clip-path="url(#e)"
+     mask="url(#d)"
+     transform="matrix(1, 0, 0, 1, 82.169678, -16.890125)"
+     id="g18">
+    <path
+       d="m 55.914062 129 c -0.210937 0.597656 -0.777343 1 -1.414062 1 s -1.203125 -0.398438 -1.414062 -1 c -0.054688 0.160156 -0.085938 0.332031 -0.085938 0.5 c 0 0.828125 0.671875 1.5 1.5 1.5 s 1.5 -0.671875 1.5 -1.5 c 0 -0.171875 -0.027344 -0.339844 -0.085938 -0.5 z m 4 0 c -0.210937 0.597656 -0.777343 1 -1.414062 1 s -1.203125 -0.398438 -1.414062 -1 c -0.054688 0.160156 -0.085938 0.332031 -0.085938 0.5 c 0 0.828125 0.671875 1.5 1.5 1.5 s 1.5 -0.671875 1.5 -1.5 c 0 -0.171875 -0.027344 -0.339844 -0.085938 -0.5 z m 4 0 c -0.210937 0.597656 -0.777343 1 -1.414062 1 s -1.203125 -0.398438 -1.414062 -1 c -0.054688 0.160156 -0.085938 0.332031 -0.085938 0.5 c 0 0.828125 0.671875 1.5 1.5 1.5 s 1.5 -0.671875 1.5 -1.5 c 0 -0.171875 -0.027344 -0.339844 -0.085938 -0.5 z m 19 0 c -0.210937 0.597656 -0.777343 1 -1.414062 1 s -1.203125 -0.398438 -1.414062 -1 c -0.054688 0.160156 -0.085938 0.332031 -0.085938 0.5 c 0 0.828125 0.671875 1.5 1.5 1.5 s 1.5 -0.671875 1.5 -1.5 c 0 -0.171875 -0.027344 -0.339844 -0.085938 -0.5 z m 4 0 c -0.210937 0.597656 -0.777343 1 -1.414062 1 s -1.203125 -0.398438 -1.414062 -1 c -0.054688 0.160156 -0.085938 0.332031 -0.085938 0.5 c 0 0.828125 0.671875 1.5 1.5 1.5 s 1.5 -0.671875 1.5 -1.5 c 0 -0.171875 -0.027344 -0.339844 -0.085938 -0.5 z m 4 0 c -0.210937 0.597656 -0.777343 1 -1.414062 1 s -1.203125 -0.398438 -1.414062 -1 c -0.054688 0.160156 -0.085938 0.332031 -0.085938 0.5 c 0 0.828125 0.671875 1.5 1.5 1.5 s 1.5 -0.671875 1.5 -1.5 c 0 -0.171875 -0.027344 -0.339844 -0.085938 -0.5 z m -23.863281 0 c -0.03125 0.160156 -0.050781 0.328125 -0.050781 0.5 c 0 1.386719 1.113281 2.5 2.5 2.5 h 5 c 1.386719 0 2.5 -1.113281 2.5 -2.5 c 0 -0.171875 -0.019531 -0.339844 -0.050781 -0.5 c -0.230469 1.144531 -1.234375 2 -2.449219 2 h -5 c -1.214844 0 -2.21875 -0.855469 -2.449219 -2 z m 0 0"
+       fill="#a09fa0"
+       id="path18" />
+  </g>
+  <g
+     clip-path="url(#s)"
+     mask="url(#r)"
+     transform="matrix(1, 0, 0, 1, 82.169678, -16.890125)"
+     id="g19" />
+  <path
+     style="fill: rgb(71, 81, 102);"
+     d="M 52.695 14.431 H 75.66 V 19.06 A 5 4.629 0 0 1 70.66 23.689 H 57.695 A 5 4.629 0 0 1 52.695 19.06 V 14.431 Z"
+     bx:shape="rect 52.695 14.431 22.965 9.258 0 0 5 5 1@d3f34f57"
+     id="path19" />
+  <path
+     style="fill: rgb(45, 45, 45);"
+     d="M 52.695 9.829 H 75.66 V 15.689 A 5 5 0 0 1 70.66 20.689 H 57.695 A 5 5 0 0 1 52.695 15.689 V 9.829 Z"
+     bx:shape="rect 52.695 9.829 22.965 10.86 0 0 5 5 1@5a0ece4c"
+     id="path20" />
+  <title
+     id="title4162">Adwaita Icon Template</title>
+  <g
+     id="layer1"
+     style="display:inline"
+     transform="matrix(1, 0, 0, 1, 118.748657, -167.884811)" />
+  <filter
+     id="b"
+     height="1"
+     width="1"
+     x="0"
+     y="0">
+    <feColorMatrix
+       in="SourceGraphic"
+       type="matrix"
+       values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+       id="feColorMatrix20" />
+  </filter>
+  <mask
+     id="mask-1">
+    <g
+       filter="url(#b)"
+       id="g20">
+      <rect
+         fill-opacity="0.413011"
+         height="128"
+         width="128"
+         id="rect20" />
+    </g>
+  </mask>
+  <clipPath
+     id="clip-1">
+    <rect
+       height="152"
+       width="192"
+       id="rect21" />
+  </clipPath>
+  <mask
+     id="mask-2">
+    <g
+       filter="url(#b)"
+       id="g22">
+      <rect
+         fill-opacity="0.413011"
+         height="128"
+         width="128"
+         id="rect22" />
+    </g>
+  </mask>
+  <clipPath
+     id="f">
+    <rect
+       height="152"
+       width="192"
+       id="rect23" />
+  </clipPath>
+  <mask
+     id="g">
+    <g
+       filter="url(#b)"
+       id="g24">
+      <rect
+         fill-opacity="0.413011"
+         height="128"
+         width="128"
+         id="rect24" />
+    </g>
+  </mask>
+  <clipPath
+     id="h">
+    <rect
+       height="152"
+       width="192"
+       id="rect25" />
+  </clipPath>
+</svg>

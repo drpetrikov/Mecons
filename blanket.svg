@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192px"
+   height="192px"
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="blanket.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:bx="https://boxy-svg.com">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.0474343"
+     inkscape:cx="65.628978"
+     inkscape:cy="94.669801"
+     inkscape:window-width="1536"
+     inkscape:window-height="795"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1360">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.30000001"
+         offset="0"
+         id="stop1356" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1358" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1343">
+      <stop
+         id="stop1339"
+         offset="0"
+         style="stop-opacity: 1; stop-color: rgb(250, 223, 86);" />
+      <stop
+         id="stop1341"
+         offset="1"
+         style="stop-opacity: 1; stop-color: rgb(232, 207, 77);" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(2.087499, -0.119836, -0.132283, 1.674082, -32.749557, -35.243813)"
+       gradientUnits="userSpaceOnUse"
+       y2="71.333328"
+       x2="46"
+       y1="79.999992"
+       x1="20"
+       id="linearGradient1345"
+       xlink:href="#linearGradient1343" />
+    <filter
+       height="1.0015466"
+       y="-0.00077330818"
+       width="1.0008863"
+       x="-0.00044314521"
+       id="filter1436"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1438"
+         stdDeviation="0.008162181" />
+    </filter>
+    <linearGradient
+       id="linearGradient1362"
+       x1="77"
+       y1="32"
+       x2="77"
+       y2="56"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.84191, 0, 0, 1.769119, -34.106522, -48.714977)"
+       xlink:href="#linearGradient1360" />
+    <linearGradient
+       id="color-0"
+       gradientUnits="userSpaceOnUse"
+       bx:pinned="true">
+      <stop
+         style="stop-color: rgb(255, 207, 63)"
+         id="stop1" />
+    </linearGradient>
+    <linearGradient
+       id="color-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.001384, 0, 0, 0.001858, -895.164215, -9.564374)"
+       bx:pinned="true">
+      <stop
+         style="stop-color: rgb(239, 210, 65);"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <clipPath
+     id="clip-6">
+    <path
+       d="m 20 10 h 8 v 25 h -8 z m 0 0"
+       id="path2" />
+  </clipPath>
+  <clipPath
+     id="clip-8">
+    <path
+       d="m 24 10 c -6.628906 0 -12 5.371094 -12 12 v 22 c 0 2.210938 1.789062 4 4 4 c 1.105469 0 2 0.894531 2 2 v 7 c 0 1.105469 -0.894531 2 -2 2 c -2.210938 0 -4 1.789062 -4 4 v 2 h 24 v -2 c 0 -2.210938 -1.789062 -4 -4 -4 c -1.105469 0 -2 -0.894531 -2 -2 v -7 c 0 -1.105469 0.894531 -2 2 -2 c 2.210938 0 4 -1.789062 4 -4 v -22 c 0 -6.628906 -5.371094 -12 -12 -12 z m 0 0"
+       id="path3" />
+  </clipPath>
+  <clipPath
+     id="clip-9">
+    <path
+       d="m 32 10 h 4 v 31 h -4 z m 0 0"
+       id="path4" />
+  </clipPath>
+  <clipPath
+     id="clip-10">
+    <path
+       d="m 24 10 c -6.628906 0 -12 5.371094 -12 12 v 22 c 0 2.210938 1.789062 4 4 4 c 1.105469 0 2 0.894531 2 2 v 7 c 0 1.105469 -0.894531 2 -2 2 c -2.210938 0 -4 1.789062 -4 4 v 2 h 24 v -2 c 0 -2.210938 -1.789062 -4 -4 -4 c -1.105469 0 -2 -0.894531 -2 -2 v -7 c 0 -1.105469 0.894531 -2 2 -2 c 2.210938 0 4 -1.789062 4 -4 v -22 c 0 -6.628906 -5.371094 -12 -12 -12 z m 0 0"
+       id="path5" />
+  </clipPath>
+  <clipPath
+     id="clip-11">
+    <path
+       d="m 12 10 h 4 v 31 h -4 z m 0 0"
+       id="path6" />
+  </clipPath>
+  <clipPath
+     id="clip-12">
+    <path
+       d="m 24 10 c -6.628906 0 -12 5.371094 -12 12 v 22 c 0 2.210938 1.789062 4 4 4 c 1.105469 0 2 0.894531 2 2 v 7 c 0 1.105469 -0.894531 2 -2 2 c -2.210938 0 -4 1.789062 -4 4 v 2 h 24 v -2 c 0 -2.210938 -1.789062 -4 -4 -4 c -1.105469 0 -2 -0.894531 -2 -2 v -7 c 0 -1.105469 0.894531 -2 2 -2 c 2.210938 0 4 -1.789062 4 -4 v -22 c 0 -6.628906 -5.371094 -12 -12 -12 z m 0 0"
+       id="path7" />
+  </clipPath>
+  <g
+     clip-path="url(#clip-6)"
+     transform="matrix(4.90695, 0, 0, 4.90695, 1134.703003, 1213.505493)"
+     style=""
+     id="g8">
+    <g
+       clip-path="url(#clip-8)"
+       id="g7" />
+  </g>
+  <g
+     clip-path="url(#clip-9)"
+     transform="matrix(4.90695, 0, 0, 4.90695, 1134.703003, 1213.505493)"
+     style=""
+     id="g10">
+    <g
+       clip-path="url(#clip-10)"
+       id="g9" />
+  </g>
+  <g
+     clip-path="url(#clip-11)"
+     transform="matrix(4.90695, 0, 0, 4.90695, 1134.703003, 1213.505493)"
+     style=""
+     id="g12">
+    <g
+       clip-path="url(#clip-12)"
+       id="g11" />
+  </g>
+  <title
+     id="title4162">Adwaita Icon Template</title>
+  <g
+     id="g12027"
+     transform="matrix(7.991171, 0, 0, 8.003645, 812.759888, -4561.688477)"
+     style="display:inline;fill:#000000;enable-background:new" />
+  <g
+     transform="matrix(1, 0, 0, 1, 956.550781, 308.389343)"
+     style="fill: none; fill-opacity: 0.25098; stroke: rgb(165, 121, 179); stroke-opacity: 1; display: inline;"
+     id="g883" />
+  <g
+     transform="matrix(1, 0, 0, 1, 956.550781, 308.389343)"
+     style="fill: none; fill-opacity: 0.25098; stroke: rgb(165, 121, 179); stroke-opacity: 1; display: inline;"
+     id="g900" />
+  <g
+     style="fill:#54d45c;fill-opacity:1"
+     transform="matrix(1.063698, 0, 0, 1.063698, -4.913834, -8.709957)"
+     id="g13">
+    <path
+       id="rect1354"
+       style="display:inline;opacity:0.999707;fill:#54d45c;stroke-width:21.0494;paint-order:stroke;filter:url(#filter1436);fill-opacity:1"
+       d="M 54.73219 155.65813 L 54.73219 158.72819 L 96.291948 158.72819 L 137.84987 158.72819 L 179.40963 158.72819 L 179.40963 155.65813 L 137.84987 155.65813 L 96.291948 155.65813 L 54.73219 155.65813 z M 54.73219 177.66456 L 54.73219 180.98986 L 65.123048 180.98986 L 65.123048 177.66456 L 54.73219 177.66456 z M 75.512069 177.66456 L 75.512069 180.98986 L 85.901091 180.98986 L 85.901091 177.66456 L 75.512069 177.66456 z M 96.290112 177.66456 L 96.290112 180.98986 L 106.68097 180.98986 L 106.68097 177.66456 L 96.290112 177.66456 z M 117.07183 177.66456 L 117.07183 180.98986 L 127.46085 180.98986 L 127.46085 177.66456 L 117.07183 177.66456 z M 137.84987 177.66456 L 137.84987 180.98986 L 148.24073 180.98986 L 148.24073 177.66456 L 137.84987 177.66456 z M 158.62975 177.66456 L 158.62975 180.98986 L 169.01877 180.98986 L 169.01877 177.66456 L 158.62975 177.66456 z " />
+  </g>
+  <path
+     id="path1320"
+     style="fill-opacity:1;stroke-width:11.0475;paint-order:stroke;display:inline;filter:url(#filter1436);fill:#64e96c"
+     d="M 31.202 7.897 C 30.627 7.897 30.066 7.939 29.502 7.981 L 29.502 7.897 Z M 162.094 7.897 L 162.094 7.981 C 162.658 7.939 163.219 7.897 163.794 7.897 C 176.039 7.897 185.896 17.366 185.896 29.126 C 185.896 77.598 185.896 4.104 185.896 47.339 L 185.923 47.339 L 185.923 156.926 L 174.871 156.926 L 174.871 180.79 L 163.819 180.79 L 163.819 156.926 L 152.768 156.926 L 152.768 180.79 L 141.717 180.79 L 141.717 156.871 L 130.665 156.871 L 130.665 180.735 L 119.614 180.735 L 119.614 156.871 L 108.562 156.871 L 108.562 180.735 L 97.472 180.735 L 97.472 156.871 L 86.46 156.871 L 86.46 180.735 L 75.408 180.735 L 75.408 156.871 L 64.356 156.871 L 64.356 180.735 L 53.304 180.735 C 53.304 179.651 53.304 48.248 53.304 47.284 C 53.304 4.166 53.304 77.577 53.304 29.126 C 53.304 17.366 43.447 7.897 31.202 7.897 Z" />
+  <path
+     id="path1349"
+     style="fill: url('#linearGradient1362'); fill-opacity: 1; stroke-width: 11.0475; paint-order: stroke; display: inline; filter: url('#filter1436');"
+     d="M 30.5 7.897 L 30.5 7.981 C 31.063 7.939 31.627 7.897 32.202 7.897 L 30.5 7.897 Z M 32.202 7.897 C 44.447 7.897 54.304 17.366 54.304 29.126 L 54.304 50.355 L 98.51 50.355 L 142.717 50.355 L 186.923 50.355 L 186.923 29.126 C 186.923 17.366 177.064 7.897 164.819 7.897 C 164.245 7.897 163.681 7.939 163.117 7.981 L 163.117 7.897 L 120.614 7.897 L 118.911 7.897 L 76.408 7.897 L 74.706 7.897 L 32.202 7.897 Z" />
+  <g
+     style=""
+     transform="matrix(1.063698, 0, 0, 1.063698, -4.913834, -8.437744)"
+     id="g14" />
+  <path
+     id="rect1288"
+     style="fill:#54d45c;fill-opacity:1;stroke-width:8.90675;paint-order:stroke;display:inline;filter:url(#filter1436)"
+     d="M 31.736 7.897 C 19.49 7.897 9.633 17.366 9.633 29.126 L 9.633 92.815 L 9.633 145.888 L 9.633 170.656 L 20.685 170.656 L 20.685 145.888 L 31.736 145.888 L 31.736 170.656 L 42.787 170.656 L 42.787 145.521 L 53.838 145.521 L 53.838 92.815 L 53.838 29.126 C 53.838 17.366 43.981 7.897 31.736 7.897 Z" />
+  <title
+     id="bx-title-1">Adwaita Icon Template</title>
+  <clipPath
+     id="clip-1">
+    <path
+       d="m 20 10 h 8 v 25 h -8 z m 0 0"
+       id="path14" />
+  </clipPath>
+  <clipPath
+     id="clip-2">
+    <path
+       d="m 24 10 c -6.628906 0 -12 5.371094 -12 12 v 22 c 0 2.210938 1.789062 4 4 4 c 1.105469 0 2 0.894531 2 2 v 7 c 0 1.105469 -0.894531 2 -2 2 c -2.210938 0 -4 1.789062 -4 4 v 2 h 24 v -2 c 0 -2.210938 -1.789062 -4 -4 -4 c -1.105469 0 -2 -0.894531 -2 -2 v -7 c 0 -1.105469 0.894531 -2 2 -2 c 2.210938 0 4 -1.789062 4 -4 v -22 c 0 -6.628906 -5.371094 -12 -12 -12 z m 0 0"
+       id="path15" />
+  </clipPath>
+  <clipPath
+     id="clip-3">
+    <path
+       d="m 32 10 h 4 v 31 h -4 z m 0 0"
+       id="path16" />
+  </clipPath>
+  <clipPath
+     id="clip-4">
+    <path
+       d="m 24 10 c -6.628906 0 -12 5.371094 -12 12 v 22 c 0 2.210938 1.789062 4 4 4 c 1.105469 0 2 0.894531 2 2 v 7 c 0 1.105469 -0.894531 2 -2 2 c -2.210938 0 -4 1.789062 -4 4 v 2 h 24 v -2 c 0 -2.210938 -1.789062 -4 -4 -4 c -1.105469 0 -2 -0.894531 -2 -2 v -7 c 0 -1.105469 0.894531 -2 2 -2 c 2.210938 0 4 -1.789062 4 -4 v -22 c 0 -6.628906 -5.371094 -12 -12 -12 z m 0 0"
+       id="path17" />
+  </clipPath>
+  <clipPath
+     id="clip-5">
+    <path
+       d="m 12 10 h 4 v 31 h -4 z m 0 0"
+       id="path18" />
+  </clipPath>
+  <clipPath
+     id="clip-7">
+    <path
+       d="m 24 10 c -6.628906 0 -12 5.371094 -12 12 v 22 c 0 2.210938 1.789062 4 4 4 c 1.105469 0 2 0.894531 2 2 v 7 c 0 1.105469 -0.894531 2 -2 2 c -2.210938 0 -4 1.789062 -4 4 v 2 h 24 v -2 c 0 -2.210938 -1.789062 -4 -4 -4 c -1.105469 0 -2 -0.894531 -2 -2 v -7 c 0 -1.105469 0.894531 -2 2 -2 c 2.210938 0 4 -1.789062 4 -4 v -22 c 0 -6.628906 -5.371094 -12 -12 -12 z m 0 0"
+       id="path19" />
+  </clipPath>
+  <g
+     clip-path="url(#clip-1)"
+     transform="matrix(4.906949, 0, 0, 4.90695, 1332.953979, 1208.19165)"
+     style=""
+     id="g20">
+    <g
+       clip-path="url(#clip-2)"
+       id="g19" />
+  </g>
+  <g
+     clip-path="url(#clip-3)"
+     transform="matrix(4.906949, 0, 0, 4.90695, 1332.953979, 1208.19165)"
+     style=""
+     id="g22">
+    <g
+       clip-path="url(#clip-4)"
+       id="g21" />
+  </g>
+  <g
+     clip-path="url(#clip-5)"
+     transform="matrix(4.906949, 0, 0, 4.90695, 1332.953979, 1208.19165)"
+     style=""
+     id="g24">
+    <g
+       clip-path="url(#clip-7)"
+       id="g23" />
+  </g>
+  <title
+     id="bx-title-2">Adwaita Icon Template</title>
+  <g
+     id="g-1"
+     transform="matrix(7.991172, 0, 0, 8.003645, 1011.010803, -4567.002441)"
+     style="display:inline;fill:#000000;enable-background:new" />
+  <g
+     transform="matrix(1, 0, 0, 1, 1154.801758, 303.075531)"
+     style="fill: none; fill-opacity: 0.25098; stroke: rgb(165, 121, 179); stroke-opacity: 1; display: inline;"
+     id="g-2" />
+  <g
+     transform="matrix(1, 0, 0, 1, 1154.801758, 303.075531)"
+     style="fill: none; fill-opacity: 0.25098; stroke: rgb(165, 121, 179); stroke-opacity: 1; display: inline;"
+     id="g-3" />
+  <title
+     id="bx-title-3">Adwaita Icon Template</title>
+  <clipPath
+     id="clip-13">
+    <path
+       d="m 20 10 h 8 v 25 h -8 z m 0 0"
+       id="path24" />
+  </clipPath>
+  <clipPath
+     id="clip-14">
+    <path
+       d="m 24 10 c -6.628906 0 -12 5.371094 -12 12 v 22 c 0 2.210938 1.789062 4 4 4 c 1.105469 0 2 0.894531 2 2 v 7 c 0 1.105469 -0.894531 2 -2 2 c -2.210938 0 -4 1.789062 -4 4 v 2 h 24 v -2 c 0 -2.210938 -1.789062 -4 -4 -4 c -1.105469 0 -2 -0.894531 -2 -2 v -7 c 0 -1.105469 0.894531 -2 2 -2 c 2.210938 0 4 -1.789062 4 -4 v -22 c 0 -6.628906 -5.371094 -12 -12 -12 z m 0 0"
+       id="path25" />
+  </clipPath>
+  <clipPath
+     id="clip-15">
+    <path
+       d="m 32 10 h 4 v 31 h -4 z m 0 0"
+       id="path26" />
+  </clipPath>
+  <clipPath
+     id="clip-16">
+    <path
+       d="m 24 10 c -6.628906 0 -12 5.371094 -12 12 v 22 c 0 2.210938 1.789062 4 4 4 c 1.105469 0 2 0.894531 2 2 v 7 c 0 1.105469 -0.894531 2 -2 2 c -2.210938 0 -4 1.789062 -4 4 v 2 h 24 v -2 c 0 -2.210938 -1.789062 -4 -4 -4 c -1.105469 0 -2 -0.894531 -2 -2 v -7 c 0 -1.105469 0.894531 -2 2 -2 c 2.210938 0 4 -1.789062 4 -4 v -22 c 0 -6.628906 -5.371094 -12 -12 -12 z m 0 0"
+       id="path27" />
+  </clipPath>
+  <clipPath
+     id="clip-17">
+    <path
+       d="m 12 10 h 4 v 31 h -4 z m 0 0"
+       id="path28" />
+  </clipPath>
+  <clipPath
+     id="clip-18">
+    <path
+       d="m 24 10 c -6.628906 0 -12 5.371094 -12 12 v 22 c 0 2.210938 1.789062 4 4 4 c 1.105469 0 2 0.894531 2 2 v 7 c 0 1.105469 -0.894531 2 -2 2 c -2.210938 0 -4 1.789062 -4 4 v 2 h 24 v -2 c 0 -2.210938 -1.789062 -4 -4 -4 c -1.105469 0 -2 -0.894531 -2 -2 v -7 c 0 -1.105469 0.894531 -2 2 -2 c 2.210938 0 4 -1.789062 4 -4 v -22 c 0 -6.628906 -5.371094 -12 -12 -12 z m 0 0"
+       id="path29" />
+  </clipPath>
+  <g
+     clip-path="url(#clip-13)"
+     transform="matrix(4.906949, 0, 0, 4.90695, 1320.937256, 1208.45874)"
+     style=""
+     id="g30">
+    <g
+       clip-path="url(#clip-14)"
+       id="g29" />
+  </g>
+  <g
+     clip-path="url(#clip-15)"
+     transform="matrix(4.906949, 0, 0, 4.90695, 1320.937256, 1208.45874)"
+     style=""
+     id="g32">
+    <g
+       clip-path="url(#clip-16)"
+       id="g31" />
+  </g>
+  <g
+     clip-path="url(#clip-17)"
+     transform="matrix(4.906949, 0, 0, 4.90695, 1320.937256, 1208.45874)"
+     style=""
+     id="g34">
+    <g
+       clip-path="url(#clip-18)"
+       id="g33" />
+  </g>
+  <title
+     id="bx-title-4">Adwaita Icon Template</title>
+  <g
+     id="g-4"
+     transform="matrix(7.991172, 0, 0, 8.003645, 998.994141, -4566.735352)"
+     style="display:inline;fill:#000000;enable-background:new" />
+  <g
+     transform="matrix(1, 0, 0, 1, 1142.785034, 303.34256)"
+     style="fill: none; fill-opacity: 0.25098; stroke: rgb(165, 121, 179); stroke-opacity: 1; display: inline;"
+     id="g-5" />
+  <g
+     transform="matrix(1, 0, 0, 1, 1142.785034, 303.34256)"
+     style="fill: none; fill-opacity: 0.25098; stroke: rgb(165, 121, 179); stroke-opacity: 1; display: inline;"
+     id="g-6" />
+  <title
+     id="bx-title-5">Adwaita Icon Template</title>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Adwaita Icon Template</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
